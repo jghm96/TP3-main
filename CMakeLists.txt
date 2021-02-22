@@ -22,8 +22,8 @@ add_executable(TP3_main
         fuego.h
         grafo.cpp
         grafo.h
-        interfazUsuario.cpp
-        interfazUsuario.h
+        VInterfazUsuario.h
+        VInterfazUsuario.cpp
         juego.cpp
         juego.h
         lago.cpp
